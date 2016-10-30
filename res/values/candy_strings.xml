@@ -412,7 +412,8 @@
     <string name="battery_enable_title">Show battery</string>
 
     <!-- Network traffic Settings -->
-    <string name="nettraffic_settings_title">Network Traffic</string>
+    <string name="net_traffic_title">Network Traffic</string>
+    <string name="nettraffic_settings_title">Network Traffic Indicator</string>
     <string name="show_network_traffic_state">Status bar traffic monitor</string>
     <string name="show_network_traffic_unit">Display unit</string>
     <string name="show_network_traffic_frequency">Update interval</string>

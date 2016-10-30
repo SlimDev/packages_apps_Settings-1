@@ -391,4 +391,3 @@ public class StatusBarSettings extends SettingsPreferenceFragment implements
         return false;
     }
 }
-
